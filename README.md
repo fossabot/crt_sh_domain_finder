@@ -1,4 +1,6 @@
 # crt.sh Domain Finder
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fshivamsaraswat%2Fcrt_sh_domain_finder.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fshivamsaraswat%2Fcrt_sh_domain_finder?ref=badge_shield)
+
 
 Get all the related domains and subdomains using [crt.sh](https://crt.sh/).
 
@@ -42,3 +44,7 @@ Example: python crt_sh_domains.py -d example.com -o domains.txt
 ```
 
 **NOTE:** Do check out **[Golang Version of crt.sh Domain Finder](https://github.com/shivamsaraswat/crt_sh_go)**.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fshivamsaraswat%2Fcrt_sh_domain_finder.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fshivamsaraswat%2Fcrt_sh_domain_finder?ref=badge_large)
